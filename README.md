@@ -1,5 +1,7 @@
 # To create your own Pokemon Go:
 
+## Web Page: <https://missystem.github.io/paripassu/>
+
 * Clone the Paripassu github repo to make repo for your group/self (https://github.com/galaxykate/paripassu)
 * Host the page with Github pages (or with ngrok)
 * Design a game
