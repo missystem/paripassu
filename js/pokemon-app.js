@@ -47,7 +47,7 @@ let map = new InteractiveMap({
 
 			// make a polar offset (radius, theta) 
 			// from the map's center (units are *approximately* meters)
-			let position = clonePolarOffset(NU_CENTER, 40*Math.random() + 200, 20*Math.random())
+			let position = clonePolarOffset(NU_CENTER, 200*Math.random() + 300, 20*Math.random())
 			this.createLandmark({
 				pos: position,
 				name: words.getRandomWord(),
